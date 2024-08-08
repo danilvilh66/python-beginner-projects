@@ -1,3 +1,4 @@
 python 3.9
 django3
 djangorestframework
+django>=4.2.15 # not directly required, pinned by Snyk to avoid a vulnerability
